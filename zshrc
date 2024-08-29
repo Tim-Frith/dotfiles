@@ -76,8 +76,7 @@ if [ -f '/usr/local/share/google-cloud-sdk/path.zsh.inc' ]; then . '/usr/local/s
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/usr/local/share/google-cloud-sdk/completion.zsh.inc' ]; then . '/usr/local/share/google-cloud-sdk/completion.zsh.inc'; fi
-export GOOGLE_APPLICATION_CREDENTIALS=/path/to/the/lustrous-bus-384011-27e9162ecc8a.json
-export GOOGLE_APPLICATION_CREDENTIALS=~/code/gcp/lustrous-bus-384011-27e9162ecc8a.json
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/timfrith/code/gcp/lustrous-bus-384011-27e9162ecc8a.json
 
 
 # The next line connects the python path for the file to be searchable
